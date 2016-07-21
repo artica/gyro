@@ -1,0 +1,22 @@
+#######################################
+# Syntax Coloring Map For Motoruino 2 Main
+####################################### 
+# Class (KEYWORD1)
+#######################################
+
+Motoruino2IMU		KEYWORD1
+Motoruino2Main	KEYWORD1
+Motoruino2Motor	KEYWORD1
+Motoruino2Wire	KEYWORD1
+
+#######################################
+# Methods and Functions	(KEYWORD2)
+#######################################	
+
+DiffTurn	KEYWORD2
+Delay	KEYWORD2	
+
+#######################################
+# Constants
+#######################################
+

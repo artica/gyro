@@ -1,0 +1,27 @@
+#######################################
+# Syntax Coloring Map For Motoruino 2 Secondary
+####################################### 
+# Class (KEYWORD1)
+#######################################
+
+Gyro	KEYWORD1
+LSM330DLC			KEYWORD1
+LSM9DS0			KEYWORD1
+Motoruino2SComm		KEYWORD1
+Motoruino2SEncoder	KEYWORD1
+Motoruino2SGPOut	KEYWORD1
+Motoruino2SMotor	KEYWORD1
+Motoruino2SPower	KEYWORD1
+Motoruino2SSPI		KEYWORD1
+
+#######################################
+# Methods and Functions	(KEYWORD2)
+#######################################	
+
+DiffTurn	KEYWORD2
+Delay	KEYWORD2	
+
+#######################################
+# Constants
+#######################################
+

@@ -1,0 +1,41 @@
+#######################################
+# Syntax Coloring Map For Gyro
+####################################### 
+# Class (KEYWORD1)
+#######################################
+
+Gyro				KEYWORD1
+GyroBumper			KEYWORD1
+GyroIRSensor		KEYWORD1
+GyroServoControl	KEYWORD1
+Motoruino2Main		KEYWORD1
+neck				KEYWORD1
+GyroBumpers			KEYWORD1
+motoruino2			KEYWORD1
+GyroIRSensor		KEYWORD1
+GyroServoControl	KEYWORD1
+
+#######################################
+# Methods and Functions	(KEYWORD2)
+#######################################	
+
+BLeftCheck	KEYWORD2
+BRightCheck	KEYWORD2
+StopMotor	KEYWORD2
+ForwardMotor	KEYWORD2
+BackwardMotor	KEYWORD2
+TurnRightMotor	KEYWORD2
+TurnLeftMotor	KEYWORD2
+DiffTurn	KEYWORD2
+IRValueCheck	KEYWORD2
+Range	KEYWORD2
+WritePos	KEYWORD2
+RangeValue	KEYWORD2
+Rotate	KEYWORD2
+GetPosition	KEYWORD2
+Delay	KEYWORD2	
+
+#######################################
+# Constants
+#######################################
+
